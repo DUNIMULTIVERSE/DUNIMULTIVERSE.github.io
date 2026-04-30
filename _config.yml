@@ -34,7 +34,7 @@ navigation:
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "/images/20251124_153932.jpg"
   name             : "Usman Damilola"
   pronouns         : # example: "He/Him"  
   bio              : "Usman Damilola | Research interests: development economics (macro approach) and energy economics"
